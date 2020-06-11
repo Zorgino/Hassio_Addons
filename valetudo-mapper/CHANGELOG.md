@@ -1,3 +1,8 @@
+## 1.3.2 - 2020-06-11
+
+* 🔼 Add manual crop to config
+
+
 ## 1.3.2 - 2020-05-22
 
 * 🔨 Updated Changelog to new format
